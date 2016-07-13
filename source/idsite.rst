@@ -25,6 +25,17 @@ Building, securing, and maintaining identity screens for your users is time cons
 
 Stormpath ID Site fully decouples your identity screens from your applications, making it incredibly easy to provide the same login / registration pages for multiple applications — achieving centralized user management and authentication with a clean and easy user experience.
 
+Who can use ID Site?
+-----------------------------------
+
+Because ID Site is a hosted application that uses features of modern web browsers, your end-users will need to meet the following browser requirements:
+
+- Chrome (all versions)
+- Internet Explorer 10+
+- Firefox 23+
+- Safari 8+
+- Android Browser, if Android version is 4.1 (Jellybean) or greater
+
 7.2. How does ID Site Work?
 ===========================
 
